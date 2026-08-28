@@ -23,7 +23,7 @@ grounded in the transcript, and cited to the exact second.
 
 ---
 
-## Overview
+## Overview of project
 
 VidSage turns any YouTube video into something you can *talk to*. Instead of scrubbing
 through a 40-minute lecture to find one point, you paste the link, and a Retrieval-Augmented
